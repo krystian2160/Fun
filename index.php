@@ -8,7 +8,7 @@
  */
 class test1 {
 	
-	public static $x = 5;
+	public static $x = 155;
 	
 	public function show()
 	{
